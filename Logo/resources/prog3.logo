@@ -1,0 +1,41 @@
+pour hex 
+	avance 60  droite 60
+	avance 60  droite 60
+	avance 60  droite 60
+	avance 60  droite 60
+	avance 60  droite 60
+	avance 60  droite 60
+fin
+
+pour truc 
+	hex 
+	droite 10 
+	hex 
+	droite 10 
+	hex 
+	droite 10 
+	hex 
+	droite 10 
+	hex 
+	droite 10 
+	hex 
+	droite 10 
+fin
+
+
+pour bidule truc truc truc truc truc truc truc fin
+
+bidule
+avance 80
+bidule 
+avance 80
+bidule 
+avance 80
+bidule 
+avance 80
+bidule 
+avance 80
+bidule
+
+
+

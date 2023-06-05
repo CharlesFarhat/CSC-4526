@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Dans cette version de format, les coordonnees (x,y) sont exprimees dans un -->
+<!-- repere dont le centre est au centre de l'ecran, les valeurs positives de x -->
+<!-- etant vers la droite, les valeurs positives de y etant vers le haut.       -->
+<Colors label="colors">
+    <Color color="Black" red="0" green="0" blue="0" />
+    <Color color="Magenta" red="255" green="0" blue="255"/>
+    <Color color="red" red="255" green="0" blue="0"/>
+</Colors>
